@@ -1,2 +1,2 @@
 # hello-world
-Fist Repository
+First Repository
